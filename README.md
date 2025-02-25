@@ -9,6 +9,8 @@
 3. OK  
 ![accept import](./resource/import.png)
 
+非推奨 - [neoforge版の起動構成](./resource/instance/Drill%200.6.0-1.25.1+1.20.1.neoforge.zip)も用意していますが、一部modはソースコードからビルドしていたり、余計な物が入っていたりなど、試行錯誤と怠慢が積み重なっています。いつ壊れてもおかしくない不安定性を持っているので、まともな人であればスルーして下さい。
+
 ## 設定
 1. 編集  
 ![edit](./resource/edit.png)  
