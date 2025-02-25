@@ -41,7 +41,7 @@
 - Glass Pane Culling Fix
   - 板ガラスの変な横線を無くす
 
-### 参加
+## 参加
 サーバーアドレス:
 ```
 yutasaba.net:2025
