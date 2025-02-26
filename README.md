@@ -94,5 +94,5 @@
 2. Minecraftの画面に出てきたサーバー側のバージョンを選ぶ  
 ![change version](./resource/change_mod_version/change_version.png)  
 3. 「再インストール」
-4. [任意 - forgeとmod達の更新確認 / mod達](#mod達)の作業をする際、バージョンを維持する必要があるmodは「確認」を押した後の画面で対象のmod名の左にあるチェックを外す  
+4. [任意 - forgeとmod達の更新確認 / mod達](#mod達)の作業をする際、バージョンを維持する必要があるmodはこの画面で対象のmod名の左にあるチェックを外す  
 ![keep version](./resource/change_mod_version/keep_version.png)
