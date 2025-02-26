@@ -88,7 +88,7 @@
 ![select fabric](./resource/download_mods/select_fabric.png)
 
 3. 入れたいmodの名前をダブルクリックする\
-![select mods](./resource/download_mods/select_mods.png)\
+![select mods](./resource/download_mods/select_mods.png)
 4. 一通り選び終わったら「確認」
 5. OK\
 ![accept](./resource/download_mods/accept.png)
