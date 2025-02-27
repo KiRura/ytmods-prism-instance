@@ -6,13 +6,13 @@
 
 ## 起動構成のインポート
 
-1. [インポート用のzip](https://media.githubusercontent.com/media/KiRura/ytmods-prism-instance/refs/heads/main/resource/instance/Modded_Hammer%201.13.6%2B1.20.1.forge.zip)を落とす
+1. [インポート用のzip](./resource/instance/Modded%20Hammer%201.13.6+1.20.1.forge.zip)を落とす
 2. Prism Launcherにドラッグアンドドロップ\
 ![dad](./resource/dad.png)
 3. OK\
 ![accept import](./resource/import.png)
 
-非推奨 - [neoforge版の起動構成](./resource/instance/Drill%200.6.0-1.25.1+1.20.1.neoforge.zip)も用意していますが、一部modはソースコードからビルドしていたり、余計な物が入っていたりなど、試行錯誤と怠慢が積み重なっています。いつ壊れてもおかしくない不安定性を持っているので、まともな人であればスルーして下さい。
+非推奨 - [neoforge版の起動構成](./resource/instance/Drill%200.6.0-1.25.1+1.20.1.neoforge.mrpack)も用意していますが、一部modはソースコードからビルドしていたり、余計な物が入っていたりなど、試行錯誤と怠慢が積み重なっています。いつ壊れてもおかしくない不安定性を持っているので、まともな人であればスルーして下さい。
 
 ## 設定
 
