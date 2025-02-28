@@ -6,7 +6,7 @@
 
 ## 起動構成のインポート
 
-1. [インポート用のzip](./resource/instance/Modded%20Hammer%201.13.6+1.20.1.forge.zip)を落とす
+1. [インポート用のzip](./resource/instance/Modded%20Hammer.zip)を落とす
 2. Prism Launcherにドラッグアンドドロップ\
 ![dad](./resource/dad.png)
 3. OK\
@@ -76,6 +76,12 @@
 ![accept updates](./resource/update_mods/accept_updates.png)
 
 ## FAQ
+
+### yuushyaがサーバー側と同じ2.2.2なのに接続できない
+
+![fuck yuushya](./resource/fuckyuushya.png)\
+現状、原因は一切不明であり、起動構成のエクスポート時にmods/.connectorフォルダを含めるか否かで日によって入れるかが変わることだけ分かっています。\
+[.connectorフォルダ付属の起動構成](./resource/instance/Modded%20Hammer%20with%20.connector.zip)を落として[起動構成のインポート](#起動構成のインポート)からやり直して下さい。
 
 ### 新しくmodを入れたい
 
