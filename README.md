@@ -6,13 +6,11 @@
 
 ## 起動構成のインポート
 
-1. [インポート用のzip](./resource/instance/Modded%20Hammer.zip)を落とす
+1. [インポート用のzip](./resource/instance/Modded%20Drill%200.3.0-1.23.0+1.20.1.forge.mrpack)を落とす
 2. Prism Launcherにドラッグアンドドロップ\
 ![dad](./resource/dad.png)
 3. OK\
 ![accept import](./resource/import.png)
-
-非推奨 - [neoforge版の起動構成](./resource/instance/Drill%200.6.0-1.25.1+1.20.1.neoforge.mrpack)も用意していますが、一部modはソースコードからビルドしていたり、余計な物が入っていたりなど、試行錯誤と怠慢が積み重なっています。いつ壊れてもおかしくない不安定性を持っているので、まともな人であればスルーして下さい。
 
 ## 設定
 
@@ -77,11 +75,11 @@
 
 ## FAQ
 
-### yuushyaがサーバー側と同じ2.2.2なのに接続できない
+<!-- ### yuushyaがサーバー側と同じ2.2.2なのに接続できない
 
 ![fuck yuushya](./resource/fuckyuushya.png)\
 現状、原因は一切不明であり、起動構成のエクスポート時にmods/.connectorフォルダを含めるか否かで日によって入れるかが変わることだけ分かっています。\
-[.connectorフォルダ付属の起動構成](./resource/instance/Modded%20Hammer%20with%20.connector.zip)を落として[起動構成のインポート](#起動構成のインポート)からやり直して下さい。
+[.connectorフォルダ付属の起動構成](./resource/instance/Modded%20Hammer%20with%20.connector.zip)を落として[起動構成のインポート](#起動構成のインポート)からやり直して下さい。 -->
 
 ### 新しくmodを入れたい
 
