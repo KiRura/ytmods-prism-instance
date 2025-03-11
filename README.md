@@ -1,5 +1,7 @@
 # ゆた鯖ModサーバーのPrism Launcherのインスタンス
 
+**[サーバー側に導入中のmodのリスト](./mods.md)**
+
 ## Prism Launcherの導入
 
 [ここ](https://prismlauncher.org)からインストーラーを落としてインストールする
