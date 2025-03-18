@@ -1,0 +1,505 @@
+[
+    {
+        "authors": [
+            "squeek"
+        ],
+        "name": "AppleSkin",
+        "url": "https://modrinth.com/mod/EsAfCjCV"
+    },
+    {
+        "authors": [
+            "TeamAppliedEnergistics"
+        ],
+        "name": "Applied Energistics 2",
+        "url": "https://modrinth.com/mod/XxWD5pD3"
+    },
+    {
+        "authors": [
+            "ramidzkh"
+        ],
+        "name": "Applied Mekanistics",
+        "url": "https://www.curseforge.com/projects/574300"
+    },
+    {
+        "authors": [
+            "Shadowclaimer, Girafi"
+        ],
+        "name": "Aquaculture 2",
+        "url": "https://www.curseforge.com/projects/60028"
+    },
+    {
+        "authors": [
+            "shedaniel"
+        ],
+        "name": "Architectury",
+        "url": "https://modrinth.com/mod/lhGA9TYQ"
+    },
+    {
+        "authors": [
+            "FoundationGames"
+        ],
+        "name": "Automobility",
+        "url": "https://modrinth.com/mod/rqIsPf9F"
+    },
+    {
+        "authors": [
+            "bagu_chan"
+        ],
+        "name": "Bagus Lib",
+        "url": "https://modrinth.com/mod/95nSN4Rd"
+    },
+    {
+        "authors": [
+            "BlayTheNinth"
+        ],
+        "name": "Balm",
+        "url": "https://www.curseforge.com/projects/531761"
+    },
+    {
+        "authors": [
+            "way2muchnoise"
+        ],
+        "name": "Better Advancements",
+        "url": "https://modrinth.com/mod/Q2OqKxDG"
+    },
+    {
+        "authors": [
+            "DancingSnow"
+        ],
+        "name": "Bigger AE2",
+        "url": "https://modrinth.com/mod/tHmKhHkk"
+    },
+    {
+        "authors": [
+            "Epidra2077"
+        ],
+        "name": "CasinoCraft",
+        "url": "https://www.curseforge.com/projects/243471"
+    },
+    {
+        "authors": [
+            "shedaniel"
+        ],
+        "name": "Cloth Config v10 API",
+        "url": "https://modrinth.com/mod/9s6osm5g"
+    },
+    {
+        "authors": [
+            "Rick South"
+        ],
+        "name": "Collective",
+        "url": "https://modrinth.com/mod/e0M1UDsY"
+    },
+    {
+        "authors": [
+            "Someaddons"
+        ],
+        "name": "Connectivity Mod",
+        "url": "https://www.curseforge.com/projects/470193"
+    },
+    {
+        "authors": [
+            "BlayTheNinth"
+        ],
+        "name": "CookingForBlockheads",
+        "url": "https://www.curseforge.com/projects/231484"
+    },
+    {
+        "authors": [
+            "zlainsama"
+        ],
+        "name": "CosmeticArmorReworked",
+        "url": "https://www.curseforge.com/projects/237307"
+    },
+    {
+        "authors": [
+            "simibubi"
+        ],
+        "name": "Create",
+        "url": "https://modrinth.com/mod/LNytGWDc"
+    },
+    {
+        "authors": [
+            "MRH0"
+        ],
+        "name": "Create Crafts & Additions",
+        "url": "https://modrinth.com/mod/kU1G12Nn"
+    },
+    {
+        "authors": [
+            "MarbleGateKeeper & LimonBlaze"
+        ],
+        "name": "Create Enchantment Industry",
+        "url": "https://modrinth.com/mod/JWGBpFUP"
+    },
+    {
+        "authors": [
+            "Someaddon"
+        ],
+        "name": "Cupboard utilities",
+        "url": "https://www.curseforge.com/projects/326652"
+    },
+    {
+        "authors": [
+            "RazzleberryFox, ProfMobius & Taelnia"
+        ],
+        "name": "Decocraft",
+        "url": "https://modrinth.com/mod/IZJSgKZe"
+    },
+    {
+        "authors": [
+            "Lilypuree, Stohun"
+        ],
+        "name": "Decorative Blocks",
+        "url": "https://modrinth.com/mod/t6BIRVZn"
+    },
+    {
+        "authors": [
+            "Max Henkel"
+        ],
+        "name": "Easy Villagers",
+        "url": "https://www.curseforge.com/projects/400514"
+    },
+    {
+        "authors": [
+            "CrazyPants, tterrag, HenryLoenwind, MatthiasM, CyanideX, EpicSquid, Rover656, HypherionSA, agnor99, Ferri_Arnus, dphaldes"
+        ],
+        "name": "Ender IO",
+        "url": "https://modrinth.com/mod/49ZofO4f"
+    },
+    {
+        "authors": [
+            "ZeroNoRyouki"
+        ],
+        "name": "Extreme Reactors",
+        "url": "https://www.curseforge.com/projects/250277"
+    },
+    {
+        "authors": [
+            "malte0811"
+        ],
+        "name": "Ferrite Core",
+        "url": "https://modrinth.com/mod/uXXizFIs"
+    },
+    {
+        "authors": [
+            "Silentine, Mrbysco"
+        ],
+        "name": "Grimoire of Gaia 4",
+        "url": "https://modrinth.com/mod/6mO8vMsw"
+    },
+    {
+        "authors": [
+            "Zeitheron"
+        ],
+        "name": "HammerLib",
+        "url": "https://www.curseforge.com/projects/247401"
+    },
+    {
+        "authors": [
+            "RK_01"
+        ],
+        "name": "ImmediatelyFast",
+        "url": "https://modrinth.com/mod/5ZwdcRci"
+    },
+    {
+        "authors": [
+            "BluSunrize and Damien A.W. Hazard"
+        ],
+        "name": "Immersive Engineering",
+        "url": "https://modrinth.com/mod/tIm2nV03"
+    },
+    {
+        "authors": [
+            "Zeitheron"
+        ],
+        "name": "Improvable Skills",
+        "url": "https://modrinth.com/mod/9fT7HUaI"
+    },
+    {
+        "authors": [
+            "Buuz135"
+        ],
+        "name": "Industrial Foregoing",
+        "url": "https://modrinth.com/mod/lWxpUd04"
+    },
+    {
+        "authors": [
+            "AtomicStryker"
+        ],
+        "name": "Infernal Mobs",
+        "url": "https://www.curseforge.com/projects/227875"
+    },
+    {
+        "authors": [
+            "mezz"
+        ],
+        "name": "Item Zoom",
+        "url": "https://www.curseforge.com/projects/261725"
+    },
+    {
+        "authors": [
+            "Snownee"
+        ],
+        "name": "Jade",
+        "url": "https://modrinth.com/mod/nvQzSEkH"
+    },
+    {
+        "authors": [
+            "Techbrew, Mysticdrew"
+        ],
+        "name": "Journeymap",
+        "url": "https://www.curseforge.com/projects/32274"
+    },
+    {
+        "authors": [
+            "mezz"
+        ],
+        "name": "Just Enough Items",
+        "url": "https://modrinth.com/mod/u6dRKJwZ"
+    },
+    {
+        "authors": [
+            "way2muchnoise"
+        ],
+        "name": "Just Enough Resources",
+        "url": "https://www.curseforge.com/projects/240630"
+    },
+    {
+        "authors": [
+            "Murad Akhundov and EDToaster"
+        ],
+        "name": "Little Logistics",
+        "url": "https://www.curseforge.com/projects/570050"
+    },
+    {
+        "authors": [
+            "Epidra2077"
+        ],
+        "name": "Lucky77",
+        "url": "https://www.curseforge.com/projects/476196"
+    },
+    {
+        "authors": [
+            "90"
+        ],
+        "name": "MEGA Cells",
+        "url": "https://modrinth.com/mod/jjuIRIVr"
+    },
+    {
+        "authors": [
+            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
+        ],
+        "name": "Mekanism",
+        "url": "https://modrinth.com/mod/Ce6I4WUE"
+    },
+    {
+        "authors": [
+            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
+        ],
+        "name": "Mekanism: Additions",
+        "url": "https://modrinth.com/mod/a6F3uASn"
+    },
+    {
+        "authors": [
+            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
+        ],
+        "name": "Mekanism: Generators",
+        "url": "https://modrinth.com/mod/OFVYKsAk"
+    },
+    {
+        "authors": [
+            "Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd"
+        ],
+        "name": "Mekanism: Tools",
+        "url": "https://modrinth.com/mod/tqQpq1lt"
+    },
+    {
+        "name": "MineAll SMP",
+        "url": "https://www.curseforge.com/projects/318494"
+    },
+    {
+        "authors": [
+            "Jonathan Ho"
+        ],
+        "name": "Minecraft Transit Railway",
+        "url": "https://modrinth.com/mod/XKPAmI6u"
+    },
+    {
+        "authors": [
+            "embeddedt"
+        ],
+        "name": "ModernFix",
+        "url": "https://modrinth.com/mod/nmDcB62a"
+    },
+    {
+        "authors": [
+            "MrCrayfish"
+        ],
+        "name": "MrCrayfish's Furniture Mod",
+        "url": "https://www.curseforge.com/projects/55438"
+    },
+    {
+        "authors": [
+            "ChaosTheDude"
+        ],
+        "name": "Nature's Compass",
+        "url": "https://modrinth.com/mod/fPetb5Kh"
+    },
+    {
+        "authors": [
+            "Rick South"
+        ],
+        "name": "Ore Harvester",
+        "url": "https://modrinth.com/mod/Xiv4r347"
+    },
+    {
+        "authors": [
+            "Love, Cheese and small house plants"
+        ],
+        "name": "Pam's HarvestCraft 2 - Crops",
+        "url": "https://www.curseforge.com/projects/361385"
+    },
+    {
+        "authors": [
+            "Pamela Collins, ie MatrexsVigil, PamHarvestCraft"
+        ],
+        "name": "Pam's HarvestCraft 2 - Food Core",
+        "url": "https://modrinth.com/mod/Z9OywhE4"
+    },
+    {
+        "authors": [
+            "Love, Cheese and small house plants"
+        ],
+        "name": "Pam's HarvestCraft 2 - Food Extended",
+        "url": "https://modrinth.com/mod/bdPeAbPS"
+    },
+    {
+        "authors": [
+            "Love, Cheese and small house plants"
+        ],
+        "name": "Pam's HarvestCraft 2 - Trees",
+        "url": "https://www.curseforge.com/projects/365460"
+    },
+    {
+        "authors": [
+            "Vazkii"
+        ],
+        "name": "Patchouli",
+        "url": "https://modrinth.com/mod/nU0bVIaL"
+    },
+    {
+        "name": "Pickup Widely SMP",
+        "url": "https://www.curseforge.com/projects/419840"
+    },
+    {
+        "authors": [
+            "Kotori316"
+        ],
+        "name": "QuarryPlus",
+        "url": "https://modrinth.com/mod/jhxX1zVW"
+    },
+    {
+        "name": "Rosetta Enchant Table SMP",
+        "url": "https://www.curseforge.com/projects/419837"
+    },
+    {
+        "name": "Scalable Cat's Force",
+        "url": "https://modrinth.com/mod/zr0QMQMo"
+    },
+    {
+        "authors": [
+            "Furia, NyMmd-MIT:nyatla, ObjModelImporter:forge"
+        ],
+        "name": "Slash Blade",
+        "url": "https://www.curseforge.com/projects/241596"
+    },
+    {
+        "authors": [
+            "P3pp3rF1y, Ridanisaurus"
+        ],
+        "name": "Sophisticated Backpacks",
+        "url": "https://www.curseforge.com/projects/422301"
+    },
+    {
+        "authors": [
+            "P3pp3rF1y"
+        ],
+        "name": "Sophisticated Core",
+        "url": "https://modrinth.com/mod/nmoqTijg"
+    },
+    {
+        "authors": [
+            "P3pp3rF1y, Ridanisaurus"
+        ],
+        "name": "Sophisticated Storage",
+        "url": "https://modrinth.com/mod/hMlaZH8f"
+    },
+    {
+        "name": "Storage Box",
+        "url": "https://www.curseforge.com/projects/419839"
+    },
+    {
+        "authors": [
+            "Fourmisain"
+        ],
+        "name": "Tax Free Levels",
+        "url": "https://modrinth.com/mod/jCBrrLTs"
+    },
+    {
+        "authors": [
+            "Benimatic, AtomicBlom, Drullkus, Killer_Demon, quadraxis, Tamaized, williewillus, Andromander, GizmoTheMoonPig, jodlodi"
+        ],
+        "name": "The Twilight Forest",
+        "url": "https://www.curseforge.com/projects/227639"
+    },
+    {
+        "authors": [
+            "TheCodedOne, Buuz135"
+        ],
+        "name": "Titanium",
+        "url": "https://modrinth.com/mod/1Ro7m06l"
+    },
+    {
+        "authors": [
+            "bagu_chan, 0999312"
+        ],
+        "name": "TofuCraftReload",
+        "url": "https://modrinth.com/mod/69rMY8bC"
+    },
+    {
+        "authors": [
+            "Rick South"
+        ],
+        "name": "Tree Harvester",
+        "url": "https://modrinth.com/mod/abooMhox"
+    },
+    {
+        "authors": [
+            "Meatwo310"
+        ],
+        "name": "Tsuki Chat",
+        "url": "https://modrinth.com/mod/TT8G3XmI"
+    },
+    {
+        "authors": [
+            "iwaliner"
+        ],
+        "name": "Urushi",
+        "url": "https://www.curseforge.com/projects/585890"
+    },
+    {
+        "authors": [
+            "Coco, Xiao2 or XiLaiTL, SQwatermark, XieZai, Hikari"
+        ],
+        "name": "Yuushya",
+        "url": "https://modrinth.com/mod/lfVtagkm"
+    },
+    {
+        "authors": [
+            "ZeroNoRyouki"
+        ],
+        "name": "Zero CORE 2",
+        "url": "https://www.curseforge.com/projects/247921"
+    }
+]
