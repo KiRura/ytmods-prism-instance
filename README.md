@@ -6,7 +6,7 @@
 
 ## 起動構成のインポート
 
-1. [インポート用のzip](./resource/instance/Modded%20Drill%200.3.0-1.23.0+1.20.1.forge.mrpack)を落とす
+1. [インポート用のzip](./resource/instance/yutasaba%20instance.mrpack)を落とす
 2. Prism Launcherにドラッグアンドドロップ\
 ![dad](./resource/dad.png)
 3. OK\
