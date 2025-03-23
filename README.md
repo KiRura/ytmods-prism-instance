@@ -12,6 +12,10 @@
 3. OK\
 ![accept import](./resource/import.png)
 
+### 起動構成の詳細
+
+この起動構成はOptifineのほとんどの機能の再現や、様々な処理の改善をするModが集められている[Drill](https://modrinth.com/modpack/drill)を基に作られました。詳細はDrillのREADMEをお読み下さい。
+
 ## 設定
 
 1. 編集\
