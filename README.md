@@ -15,7 +15,6 @@
 ### 起動構成の詳細
 
 この起動構成はOptifineのほとんどの機能の再現や、様々な処理の改善をするModが集められている[Drill](https://modrinth.com/modpack/drill)を基に作られました。詳細はDrillのREADMEをお読み下さい。  
-また、[Mod一覧](https://moddermore.net/list/kY-cnONJQV0T)を公開しています。どのModがどんな働きをするのかを概要の文章で大雑把に知ることができます。
 
 ### NVIDIA GeForceをお使いの方へ
 
