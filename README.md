@@ -6,7 +6,7 @@
 
 ## 起動構成のインポート
 
-1. [インポート用のファイル](./resource/instance/yutasaba%20instance.mrpack)を落とす
+1. [Releases](https://github.com/KiRura/ytmods-prism-instance/releases/latest)から`yutasaba-instance.mrpack`を落とす
 2. Prism Launcherにドラッグアンドドロップ\
 ![dad](./resource/dad.png)
 3. OK\
