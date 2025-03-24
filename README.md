@@ -92,10 +92,10 @@
 
 1. 編集画面の「mod」で「Modのダウンロード」\
 ![open download mods window](./resource/download_mods/open_download_mods_window.png)
-2. 「CurseForge」を選択して入れたいmodの名前を入れる
-    - **もし**中々見つからないようであれば、「Modrinth」を選択する\
+2. 「Modrinth」を選択して入れたいmodの名前を入れる
+    - **もし**中々見つからないようであれば、「CurseForge」を選択する\
 ![change to modrinth](./resource/download_mods/change_to_modrinth.png)
-    - それでも見つからなければ「フィルター設定」から「Modローダー」の「Fabric」にチェックを入れ、再度CurseForge -> Modrinthと探す\
+    - それでも見つからなければ「フィルター設定」から「Modローダー」の「Fabric」にチェックを入れ、再度Modrinth -> CurseForgeと探す\
 ![select fabric](./resource/download_mods/select_fabric.png)
 
 3. 入れたいmodの名前をダブルクリックする\
