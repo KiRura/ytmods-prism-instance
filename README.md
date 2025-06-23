@@ -1,5 +1,18 @@
 # ゆた鯖ModサーバーのPrism Launcherのインスタンス
 
+## 現時点でのバージョン維持
+
+- これより新しいバージョンに上げるとサーバーとのバージョン不適合で入れなくなる
+  - Decocraft: `3.0.0.8.4-beta-1.20.1`
+  - ExtendedAE: `1.20-1.4.1-forge`
+  - Mekanism: `10.4.15`
+  - Mekanism: Additions: `10.4.15`
+  - Mekanism: Generators: `10.4.15`
+  - Mekanism: Tools: `10.4.15`
+  - Minecraft Transit Railway: `4.0.0-prerelease.1`
+- `2.2.3`はJadeがエラーを吐いて関係の無いブロックまで巻き込んでバグる
+  - Yuushya: `2.2.2`
+
 ## Prism Launcherの導入
 
 [ここ](https://prismlauncher.org)からインストーラーを落としてインストールする
